@@ -1,0 +1,23 @@
+html, p, body {
+  padding: 0;
+  margin: 0;
+  font-size: 16px; }
+
+ul {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+@font-face {
+  font-family: Lato-Light;
+  src: url(../fonts/lato-light.ttf); }
+
+@font-face {
+  font-family: Lato-Black;
+  src: url(../fonts/Lato-black.ttf); }
+
+body {
+  font-family: Lato-Light, Arial, Sans-Serif;
+  color: black;
+  line-height: 1.3; }
